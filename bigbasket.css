@@ -1,0 +1,240 @@
+.dropdown-menu{
+    display: block;
+    text-align: left;
+    background-color: white;
+    color: black;
+    border-radius: 0%;
+    width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.fa-phone{
+    text-decoration: none;
+    color: black;
+}
+.fa-map-marker{
+    text-decoration: none;
+    color: black;
+}
+.call{
+    float: right;
+    margin: 10px 50px 10px 0px;
+}
+.fa-user-o{
+    float: right;
+    text-decoration: none;
+    color: black;
+}
+.search-container{
+    float: right;
+    margin: 50px 70px 20px 0px;
+}
+.container > h3{
+    text-align: center;
+    font-weight: 200;
+}
+.fa-search{
+    background-color: green;
+    color: white;
+}
+.fa-shopping-basket{
+    cursor: pointer;
+    float: right;
+    background-color: whitesmoke;
+}
+.image{
+    margin-left: 100px;
+}
+.spoffers{
+    float: right;
+    margin-right: 533px;
+    padding: 6px;
+    padding-bottom: 7px;
+    text-decoration: none;
+}
+.spoffers:hover{
+    background-color:rgb(4, 146, 4) ;
+}
+.button{
+    display: inline-block;
+    margin: 30px 250px 30px 250px;
+}
+.btn1{
+    text-align: center;
+    font-weight: 700;
+    margin: 5px;
+    border-style: none;
+    height: 50px;
+    width: 110px;
+    border-radius: 10%;
+    background-color: rgb(239, 235, 235);
+}
+.btn2{
+    color: white;
+    font-weight: 700;
+    margin: 5px;
+    border-style: none;
+    height: 50px;
+    width: 120px;
+    border-radius: 10%;
+    background-color: rgb(59, 7, 59);
+}
+.btn3{
+    color: white;
+    font-weight: 700;
+    margin: 5px;
+    border-style: none;
+    height: 50px;
+    width: 120px;
+    border-radius: 10%;
+    background-color: green;
+}
+.bank, .best, .fruits, .most, .daily, .beve, .snack, .clean, .beauty, .home, .brand, .last{
+    float: left;
+    margin: 20px 60px 20px 70px;
+}
+.most, .bank, .best > h3{
+    text-align: center;
+}
+.card-body{
+    background-color: bisque;
+}
+.card-body2 > h6{ 
+    font-weight: bolder;
+    font-size: 15px;
+}
+.card-body > p1{
+    font-size: 10px;
+}
+.card{
+    float: left;
+    margin: 20px 11px 20px 11px;
+}
+.card1{
+    float:left;
+}
+.card-body1 > p{
+    padding-top: 10px;
+    text-align: center;
+    font-weight: 500;
+}
+.card-body2 > p{
+    font-weight: 300;
+}
+.name{
+    padding: 10px 0px 0px 10px;
+    font-size: 15px;
+    font-weight: 300;
+}
+.offer{
+    padding-left: 10px;
+}
+.card-body3{
+    padding: 10px;
+}
+.fruits > h3{
+     text-align: center;
+}
+.daily > h3{
+    text-align: center;
+}
+.beve > h3{
+    text-align: center;
+}
+.snack > h3{
+    text-align: center;
+}
+.clean > h3{
+    text-align: center;
+}
+.beauty > h3{
+    text-align: center;
+}
+.home > h3{
+    text-align: center;
+}
+.card-body4{
+    padding: 10px;
+    font-weight: bolder;
+}
+.brand > h3{
+     text-align: center;
+}
+.card > a{
+    padding: 5px;
+}
+.info{
+    margin-left: 70px;
+}
+.card > h3{
+    padding: 10px;
+}
+.card > p1,p2,p3,p4,p5{
+    padding: 10px;
+    font-size: 13px;
+}
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.grid-container{
+    margin-left: 100px;
+    float: left;
+    display: grid;
+    padding: 10px;
+    grid: 10px/ auto auto auto auto;
+    width: 90%;
+    height: 300px;
+}
+#head{
+    font-size: 18px;
+    color: rgb(103, 183, 24);
+    font-weight: 400;
+}
+#font{
+    font-weight: 300;
+}
+.foot{
+    margin: 50px 100px 10px 100px; 
+    float: left;
+    font-weight: 100;
+    font-size: 15px;
+}
+.logo1{
+    margin-left: 20px;
+}
+.fa{
+        padding: 10px;
+        font-size: 10px;
+        width: 40px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 50%;
+}
+.fa-facebook{
+    background-color: rgb(13, 80, 252);
+    color: white;
+}
+.fa-pinterest{
+    background-color: rgb(216, 46, 46);
+    color: white;
+}
+.fa-twitter{
+    background-color: rgb(20, 184, 254);
+    color: white;
+}
+.fa-instagram{
+    background-color: rgb(254, 34, 63);
+    color: white;
+}
+.copyrite{
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 200;
+    background-color: rgb(214, 212, 212);
+}
