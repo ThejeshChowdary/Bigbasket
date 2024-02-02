@@ -60,7 +60,7 @@
 }
 .button{
     display: inline-block;
-    margin: 30px 250px 30px 250px;
+    margin: 30px 150px 30px 250px;
 }
 .btn1{
     text-align: center;
@@ -94,7 +94,7 @@
 }
 .bank, .best, .fruits, .most, .daily, .beve, .snack, .clean, .beauty, .home, .brand, .last{
     float: left;
-    margin: 20px 50px 20px 50px;
+    margin: 20px 50px 20px 60px;
 }
 .most, .bank, .best > h3{
     text-align: center;
